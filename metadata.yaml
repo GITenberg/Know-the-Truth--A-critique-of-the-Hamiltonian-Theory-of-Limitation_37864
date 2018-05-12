@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '39096'
     url: http://www.gutenberg.org/2009/agents/39096
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37864#Know-the-Truth--A-critique-of-the-Hamiltonian-Theory-of-Limitation
 gutenberg_issued: '2011-10-27'
 gutenberg_type: Text
 identifiers:
