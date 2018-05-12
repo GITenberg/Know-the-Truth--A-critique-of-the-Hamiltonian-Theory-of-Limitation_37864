@@ -1,0 +1,31 @@
+_repo: Know-the-Truth--A-critique-of-the-Hamiltonian-Theory-of-Limitation_37864
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Jesse Henry
+    birthdate: 1836
+    deathdate: 1904
+    gutenberg_agent_id: '39096'
+    url: http://www.gutenberg.org/2009/agents/39096
+description: ''
+gutenberg_issued: '2011-10-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37864'
+  lccn: '11024749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hamilton, William, Sir, 1788-1856'
+- !lcsh 'Theism'
+- !lcc 'BD'
+- !lcsh 'Spencer, Herbert, 1820-1903'
+- !lcsh 'Mansel, Henry Longueville, 1820-1871'
+title: "Know the Truth: A Critique on the Hamiltonian Theory of Limitation\r\nIncluding\
+  \ Some Strictures Upon the Theories of Rev. Henry L. Mansel and Mr. Herbert Spencer"
+url: http://www.gutenberg.org/ebooks/37864
